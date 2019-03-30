@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="your_choice">YOUR CHOICE</string>
+    <string name="computer_choice">COMPUTER CHOICE</string>
+    <string name="score_human_0_computer_0">SCORE: Human 0 Computer 0</string>
+    <string name="rock">ROCK</string>
+</resources>
